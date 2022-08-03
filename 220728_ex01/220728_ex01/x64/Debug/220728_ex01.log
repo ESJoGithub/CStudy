@@ -1,5 +1,0 @@
-﻿  main.cpp
-E:\C언어\220728_ex01\220728_ex01\main.cpp(17,9): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-E:\C언어\220728_ex01\220728_ex01\main.cpp(20,10): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-E:\C언어\220728_ex01\220728_ex01\main.cpp(21,12): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
-  220728_ex01.vcxproj -> E:\C언어\220728_ex01\x64\Debug\220728_ex01.exe
